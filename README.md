@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos-lightgrey.svg)](#)
-[![Static analysis](https://img.shields.io/badge/analysis-static%20only-brightgreen.svg)](#safety)
 
 Statically extract the payload embedded in a [bincrypter](https://github.com/hackerschoice/bincrypter)-obfuscated shell script.
 
